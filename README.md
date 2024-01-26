@@ -39,6 +39,16 @@ To successfully complete this project, I completed the following requirements:
 - Users should be able to register, log in, and log out.
 - Only logged-in users can create, update, or delete tasks.
 
+### Admin Details
+##Username:
+```
+admin
+```
+##Password
+```
+adminpass
+```
+
 ## Features
 
 - **Task Management:** Create, read, update, and delete tasks.
